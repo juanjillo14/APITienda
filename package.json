@@ -1,0 +1,33 @@
+{
+  "name": "apitienda",
+  "version": "1.0.0",
+  "description": "Mi primer API en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjillo14/APITienda.git"
+  },
+  "keywords": [
+    "ADSO",
+    "SENA",
+    "NODEJS",
+    "EXPRESS"
+  ],
+  "author": "juan carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjillo14/APITienda/issues"
+  },
+  "homepage": "https://github.com/juanjillo14/APITienda#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
