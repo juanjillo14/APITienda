@@ -4,6 +4,8 @@
   "description": "Mi primer API en node",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
+    "dev": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,8 +16,7 @@
     "ADSO",
     "SENA",
     "NODEJS",
-    "EXPRESS"
-  ],
+    "EXPRESS"  ],
   "author": "juan carvajal",
   "license": "ISC",
   "bugs": {
